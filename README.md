@@ -110,7 +110,7 @@ A cybersecurity incident response plan covering ransomware and patient data brea
 **Skills demonstrated:**
 Incident response planning · NIST SP 800-61 · HIPAA Breach Notification Rule · IRT roles and responsibilities · Communication planning · Lessons learned documentation
 
-📂 [View Project](file:///C:/Users/nadhi/OneDrive/Desktop/INCIDENT%20RESPONSE%20PLAN%20.pdf)
+📂 [View Project]("C:\Users\nadhi\OneDrive\Desktop\Security-Policies.pdf)
 
 ---
 
