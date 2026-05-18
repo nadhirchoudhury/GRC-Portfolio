@@ -66,7 +66,7 @@ A complete risk register for White Plains Hospital identifying 15 cybersecurity 
 **Skills demonstrated:**
 Risk identification · Likelihood x Impact scoring · Risk treatment strategies · Risk register maintenance · NIST CSF alignment · HIPAA Security Rule · Executive risk summary · Risk heat map
 
-📂 [View Project](file:///C:/Users/nadhi/Downloads/WPH_Cybersecurity_Risk_Register%20(2).pdf)
+📂 [View Project](https://1drv.ms/b/c/aea553a6b4a4227f/IQC9ZzkmNxV_R5jYxa8nUVWhASdXjNFw1Ej2MP6e9JnIQXM?e=mPJQGE
 
 ---
 
@@ -77,7 +77,7 @@ A professional policy suite including Acceptable Use Policy, Password Policy, an
 **Skills demonstrated:**
 Policy writing · Policy hierarchy · HIPAA administrative safeguards · ISO 27001 · Standards and procedures · Documentation management
 
-📂 [View Project](file:///C:/Users/nadhi/OneDrive/Desktop/Security-Policies.pdf)
+📂 [View Project] (https://1drv.ms/b/c/aea553a6b4a4227f/IQDGwYwpBokVS7M0_XDpQGaMAcyqHA_JY0jY0Utu2uDk4Iw?e=CpGdgU)
 
 ---
 
@@ -88,7 +88,7 @@ A structured gap assessment comparing White Plains Hospital against 36 HIPAA Sec
 **Skills demonstrated:**
 Gap assessment methodology · HIPAA Security Rule · Compliance tracking · Remediation planning · Audit preparation · Executive dashboard reporting
 
-📂 [View Project](file:///C:/Users/nadhi/Downloads/WPH_HIPAA_Gap_Assessment.pdf)
+📂 [View Project](https://1drv.ms/b/c/aea553a6b4a4227f/IQDhv_FksyhsR5l75h4SLTowAUiOpSUZ5SKuVSXuMDffl_k?e=Bu41HG)
 
 ---
 
@@ -99,7 +99,7 @@ A complete third-party vendor risk assessment for a healthcare IT vendor — inc
 **Skills demonstrated:**
 Third Party Risk Management · Vendor questionnaire design · Risk scoring · BAA requirements · SOC 2 review · Formal risk reporting
 
-📂 [View Project](file:///C:/Users/nadhi/Downloads/WPH_Vendor_Risk_Assessment.pdf)
+📂 [View Project](https://1drv.ms/b/c/aea553a6b4a4227f/IQBRaIKMcx0HRK2Lt7yXE3WhAdjfBygCaMS7b8GXAavqOv4?e=8HlG1a)
 
 ---
 
@@ -110,7 +110,7 @@ A cybersecurity incident response plan covering ransomware and patient data brea
 **Skills demonstrated:**
 Incident response planning · NIST SP 800-61 · HIPAA Breach Notification Rule · IRT roles and responsibilities · Communication planning · Lessons learned documentation
 
-📂 [View Project](https://1drv.ms/b/c/aea553a6b4a4227f/IQDGwYwpBokVS7M0_XDpQGaMAcyqHA_JY0jY0Utu2uDk4Iw?e=CpGdgU)
+📂 [View Project](https://1drv.ms/b/c/aea553a6b4a4227f/IQAcC-43cySCRpUT1No8q2BtAb3Q4-tQum8-o5g0EQG3ma4?e=GQTmwE)
 
 ---
 
